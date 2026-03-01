@@ -14,6 +14,10 @@ FlutterEye 提供了直观的界面和高效的检测机制，无需复杂配置
 
 ## 主要功能
 
+|主页|详情|包依赖|
+|-|-|-|
+|![](images/screenshot1.webp)|![](images/screenshot2.webp)|![](images/screenshot3.webp)|
+
 **Flutter 应用检测**
 - 自动扫描设备所有已安装应用
 - 智能识别 Flutter 框架开发的应用
